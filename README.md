@@ -24,3 +24,6 @@ About the code:
   If your Jmol always loads poorly when called from another routine, you can choose to run it headless, I did not have the time to fix this, I wrote on a huge time constrain;
   Multiwfn always outputs as func1.cub and func2.cub, I just followed this logic and didn't botter adding a name reading part, you just run it directly with func1.cub in the folder and you are good to go =D
   Lastly, I tried to leave as many explanation comments as possible so it's clear what I'm doing (for my own sake in case I come back to it after some months).
+
+There is an example molecule on the folder, a thiophene molecule (the same as in IRI example downloadable from Multiwfn documentation).
+If you wanna try it out, just run on the folder itself.
