@@ -1,0 +1,9 @@
+ load molecule.xyz
+ zoom out
+ rotate x           0
+ rotate y           0
+ rotate z           0
+ select all
+ label
+ font label 30
+ write POVRAY "molecule"
